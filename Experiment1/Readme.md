@@ -64,4 +64,6 @@ System.out.println("Root 2:"+realpart+"-i"+imaginarypart);
 }
 ```
 # output
+![output of primitive](Quad.png)
+
 
