@@ -75,6 +75,7 @@ s1.display();
 }
 
 ```
+
 # OUTPUT
 ![output os student](Student.png)
 
